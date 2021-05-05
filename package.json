@@ -15,7 +15,7 @@
         "reschke"
     ],
     "license": "MIT",
-    "main": "index.js"
+    "main": "index.js",
     "repository": "marcelreschke/marcelreschke",
     "author": {
         "name": "Marcel Reschke",
