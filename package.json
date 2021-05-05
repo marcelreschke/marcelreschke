@@ -13,5 +13,13 @@
         "marcelreschke",
         "marcel",
         "reschke"
-    ]
+    ],
+    "license": "MIT",
+    "main": "index.js"
+    "repository": "marcelreschke/marcelreschke",
+    "author": {
+        "name": "Marcel Reschke",
+        "email": "hello@marcelreschke.com",
+        "url": "https://marcelreschke.com"
+    }
 }
