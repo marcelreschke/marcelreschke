@@ -1,4 +1,4 @@
-# 'npx marcelreschke'
+# `npx marcelreschke`
 
 > Get to know Marcel Reschke via 'npx marcelreschke'.
 
